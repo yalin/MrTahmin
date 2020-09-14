@@ -1,0 +1,25 @@
+{
+  "name": "mrtahmin",
+  "version": "1.0.0",
+  "description": "A Twitch bot on betting for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yalin/MrTahmin.git"
+  },
+  "keywords": [
+    "twitch"
+  ],
+  "author": "yalin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yalin/MrTahmin/issues"
+  },
+  "homepage": "https://github.com/yalin/MrTahmin#readme",
+  "dependencies": {
+    "tmi.js": "^1.5.0"
+  }
+}
